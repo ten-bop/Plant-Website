@@ -1,20 +1,36 @@
-style.css
-
-body {
+body{
   margin: 0;
-	background-color: blue;
-    background-size: auto;
-  display: flex;
+
+	background-color: #00356E;
+	  display: flex;
   justify-content: center;
   align-items: flex-start;
   min-height: 100vh;
+  font-family: lemonde-journal, serif;
+font-style: normal;
+font-weight: 400;
+}
+
+h1{
+	font-family: lemonde-journal, serif;
+font-style: strong;
+font-weight: 400;
+color:white;
+}
+
+p{
+	font-family: lemonde-journal, serif;
+font-style: normal;
+font-weight: 400;
+color:white;
+
 }
 
 .container{
 	position:relative;
 	width:100vw;
 	height: 100vh;
-	background-color: blue;
+	background-color: #00356E;
 }
 
 .div0{
@@ -42,10 +58,10 @@ body {
 }
 .div3{
 	position:absolute;
-	width:auto;
+	width:100px;
 	height:auto;
-	left: 32.02%; 
-	top: 62.90%;
+	left: 160px; 
+	top: 400px;
 }
 .div4{
 	position:absolute;
@@ -56,43 +72,43 @@ body {
 }
 .div5{
 	position:absolute;
-	width:auto;
-	height:auto;
-	left: 32.02%; 
-	top: 62.90%;
+	width:550px;
+	height:100px;
+	left: 60px; 
+	top: 355px;
 }
 .div6{
 	position:absolute;
-	width:auto;
+	width:300px;
 	height:auto;
-	left: 32.02%; 
-	top: 62.90%;
+	left: 190px; 
+	top: 455px;
 }
 .div7{
 	position:absolute;
-	width:auto;
+	width:80px;
 	height:auto;
-	left: 32.02%; 
-	top: 62.90%;
+	left: 197px; 
+	top: 260px;
 }
 .div8{
 	position:absolute;
-	width:auto;
+	width:110px;
 	height:auto;
-	left: 32.02%; 
-	top: 62.90%;
+	left: 170px; 
+	top: 347px;
 }
 .div9{
 	position:absolute;
-	width:auto;
+	width:155px;
 	height:auto;
-	left: 32.02%; 
-	top: 62.90%;
+	left: 147px; 
+	top: 360px;
 }
 .div10{
 	position:absolute;
-	width:auto;
+	width:215px;
 	height:auto;
-	left: 32.02%; 
-	top: 62.90%;
+	left: 140px; 
+	top: 330px;
 }
