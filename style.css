@@ -1,0 +1,98 @@
+style.css
+
+body {
+  margin: 0;
+	background-color: blue;
+    background-size: auto;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  min-height: 100vh;
+}
+
+.container{
+	position:relative;
+	width:100vw;
+	height: 100vh;
+	background-color: blue;
+}
+
+.div0{
+	position:absolute;
+	width:auto;
+	height:auto;
+	left: 120px; 
+	top: 180px;
+}
+
+.div1{
+	position:absolute;
+	width:700px;
+	height:950px;
+	left: 116px; 
+	top: 208px;
+}
+
+.div2{
+	position:absolute;
+	width:auto;
+	height:auto;
+	left: 32.02%; 
+	top: 62.90%;
+}
+.div3{
+	position:absolute;
+	width:auto;
+	height:auto;
+	left: 32.02%; 
+	top: 62.90%;
+}
+.div4{
+	position:absolute;
+	width:auto;
+	height:auto;
+	left: 32.02%; 
+	top: 62.90%;
+}
+.div5{
+	position:absolute;
+	width:auto;
+	height:auto;
+	left: 32.02%; 
+	top: 62.90%;
+}
+.div6{
+	position:absolute;
+	width:auto;
+	height:auto;
+	left: 32.02%; 
+	top: 62.90%;
+}
+.div7{
+	position:absolute;
+	width:auto;
+	height:auto;
+	left: 32.02%; 
+	top: 62.90%;
+}
+.div8{
+	position:absolute;
+	width:auto;
+	height:auto;
+	left: 32.02%; 
+	top: 62.90%;
+}
+.div9{
+	position:absolute;
+	width:auto;
+	height:auto;
+	left: 32.02%; 
+	top: 62.90%;
+}
+.div10{
+	position:absolute;
+	width:auto;
+	height:auto;
+	left: 32.02%; 
+	top: 62.90%;
+}
